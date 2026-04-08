@@ -41,6 +41,20 @@
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta a la Pregunta 1 -->
+**git clone:** Copia un repositorio remoto a tu computadora local.
+
+**fork:** Crea una copia del repositorio en tu propia cuenta de GitHub.
+
+**git pull:** Descarga y aplica los cambios más recientes del repositorio remoto.
+
+**¿Cómo se realizó el fork?**
+Se accedió al repositorio del profesor y se hizo clic en el botón "Fork" en GitHub, seleccionando la cuenta personal.
+
+**¿Cómo se realizó el clon?**
+Se ejecutó el comando: git clone https://github.com/santiagojara/EVALUACION_1P.git
+
+**¿Cómo se verificó?**
+Se ejecutó git remote -v y se confirmó que la URL contiene el usuario santiagojara.
 
 ---
 
