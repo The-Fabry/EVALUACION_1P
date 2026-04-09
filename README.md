@@ -121,7 +121,23 @@ Evidencia: Al ejecutar git status, solo aparecen prueba.md y prueba.txt
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
+Comandos utilizados:
+1. git flow init
+2. git flow feature start ingresar-encabezado
+3. git add README.md
+4. git commit -m "Pregunta 3 - encabezado completado con datos personales"
+5. git flow feature finish ingresar-encabezado
 
+Descripción del proceso:
+- git flow init: inicializa Git Flow con las ramas main y develop.
+- git flow feature start: crea una rama feature basada en develop.
+- Se completó el encabezado del README con los datos personales.
+- git flow feature finish: fusiona la feature con develop y elimina la rama.
+
+Ventajas de Git Flow:
+Git Flow organiza el trabajo en ramas específicas para cada tarea,
+lo que facilita el trabajo en equipo, evita conflictos y mantiene
+el historial del proyecto ordenado y claro.
 ---
 
 ## Pregunta 4 (2 puntos)
