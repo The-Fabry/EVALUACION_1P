@@ -1,10 +1,10 @@
-# Universidad [Nombre de la Universidad]  
-## Facultad de [Nombre de la Facultad]  
-### Carrera de [Nombre de la Carrera]  
+# Universidad [UNIVERSIDAD TECNICA DE AMBATO]  
+## Facultad de [FISEI]  
+### Carrera de [INGENIERIA EN SOFTWARE]  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Andrés Toasa 
+**Fecha:** 08/04/2026
 
 ---
 
