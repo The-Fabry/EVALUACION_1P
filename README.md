@@ -79,6 +79,19 @@ Se ejecutó git remote -v y se confirmó que la URL contiene el usuario santiago
 
 <!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
 
+El archivo .gitignore permite indicar a Git qué archivos o carpetas debe ignorar 
+y no rastrear en el repositorio.
+
+Reglas configuradas:
+- *.log → ignora todos los archivos con extensión .log
+- temp/ → ignora la carpeta temp y todo su contenido
+- doc/*.md → ignora archivos .md dentro de la carpeta doc
+- doc/*.txt → ignora archivos .txt dentro de la carpeta doc
+
+Evidencia: Al ejecutar git status, solo aparecen prueba.md y prueba.txt 
+(fuera de doc/), confirmando que el .gitignore funciona correctamente.
+
+![Evidencia gitignore](Captura de pantalla 2026-04-08 191328)
 ---
 
 ## Pregunta 3 (2 puntos)
