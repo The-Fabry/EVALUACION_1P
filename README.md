@@ -54,7 +54,7 @@ Se accedió al repositorio del profesor y se hizo clic en el botón "Fork" en Gi
 Se ejecutó el comando: git clone https://github.com/The-Fabry/EVALUACION_1P.git
 
 **¿Cómo se verificó?**
-Se ejecutó git remote -v y se confirmó que la URL contiene el usuario santiagojara.
+Se ejecutó git remote -v y se confirmó que la URL contiene el usuario The-Fabry.
 
 ---
 
