@@ -184,6 +184,12 @@ conflictos y cumple con los estándares del proyecto.
 Es importante revisarlo para garantizar que el código sea de calidad,
 no introduzca errores y cumpla con los estándares del equipo antes 
 de integrarlo a la rama principal.
+
+¿Qué validaciones se hacen en un Pull Request?
+- Revisión del código para detectar errores
+- Verificación de que no haya conflictos con la rama principal
+- Comprobación de que cumple los requisitos solicitados
+- Revisión de estilo y buenas prácticas de programación
 ---
 
 ## Pregunta 5 (2 puntos)
