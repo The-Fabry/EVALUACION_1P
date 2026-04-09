@@ -190,6 +190,15 @@ de integrarlo a la rama principal.
 - Verificación de que no haya conflictos con la rama principal
 - Comprobación de que cumple los requisitos solicitados
 - Revisión de estilo y buenas prácticas de programación
+
+Resumen del procedimiento:
+1. Se trabajó en la rama develop
+2. Se hizo commit con la respuesta de la primera pregunta teórica
+3. Se subió a develop y se creó el Pull Request #169
+4. Se agregaron comentarios solicitando las respuestas 2 y 3
+5. Se hicieron commits con cada respuesta adicional
+
+Enlace al Pull Request: https://github.com/santiagojara/EVALUACION_1P/pull/169
 ---
 
 ## Pregunta 5 (2 puntos)
