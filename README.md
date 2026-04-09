@@ -180,6 +180,10 @@ conflictos y cumple con los estándares del proyecto.
 - Verificación de que no haya conflictos
 - Comprobación de que cumple los requisitos solicitados
 
+¿Por qué es importante revisar un Pull Request antes de fusionarlo?
+Es importante revisarlo para garantizar que el código sea de calidad,
+no introduzca errores y cumpla con los estándares del equipo antes 
+de integrarlo a la rama principal.
 ---
 
 ## Pregunta 5 (2 puntos)
