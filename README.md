@@ -167,6 +167,18 @@ el historial del proyecto ordenado y claro.
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
+¿Qué es un Pull Request?
+Un Pull Request es una solicitud para fusionar los cambios de una rama 
+hacia otra. Permite revisar el código antes de integrarlo.
+
+¿Por qué es importante revisarlo?
+Para asegurarse de que el código funciona correctamente, no genera 
+conflictos y cumple con los estándares del proyecto.
+
+¿Qué validaciones se hacen?
+- Revisión del código
+- Verificación de que no haya conflictos
+- Comprobación de que cumple los requisitos solicitados
 
 ---
 
